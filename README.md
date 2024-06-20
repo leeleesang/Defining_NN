@@ -20,7 +20,7 @@ Algorithm 1 (**Compressing algorithm**) in the paper:
 
 <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/408310c5-6e13-486d-800c-241a7aab14a3" width="500"/> <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/b6e909ae-412c-4e86-b727-2a76a4262f44" width="500"/> 
 
+Iteratively applying the algorithm (as described in Algorithm 3, the network is compressed.
+The converged network induces a polytope-basis cover, where each two-layer subnetwork represents one convex polytope.
 
-
-
-# 
+------
