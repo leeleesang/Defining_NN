@@ -9,7 +9,7 @@ Algorithm 1 (Compressing algorihtm) in the paper:
 
 ![two-cicles_Pruning](https://github.com/leeleesang/Defining_NN/assets/69498771/8d5e5037-8281-4a03-b929-08e1b296c034)
 
-
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/6ce53f70-6aa7-4a51-93f7-2e60c5a8e806" width="20"/>
 
 ![swiss_AB](https://github.com/leeleesang/Defining_NN/assets/69498771/6ce53f70-6aa7-4a51-93f7-2e60c5a8e806)
 ![swiss_DB](https://github.com/leeleesang/Defining_NN/assets/69498771/b54a896f-3603-4963-8854-fb9afa7d2ead)
