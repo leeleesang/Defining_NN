@@ -16,9 +16,9 @@ Algorithm 1 (**Compressing algorithm**) in the paper:
 
 
 # An example of application of the algorithm on a three-layer ReLU network
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/6ce53f70-6aa7-4a51-93f7-2e60c5a8e806" width="500"/> <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/b54a896f-3603-4963-8854-fb9afa7d2ead" width="500"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/6ce53f70-6aa7-4a51-93f7-2e60c5a8e806" width="400"/> <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/b54a896f-3603-4963-8854-fb9afa7d2ead" width="400"/> 
 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/408310c5-6e13-486d-800c-241a7aab14a3" width="500"/> <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/b6e909ae-412c-4e86-b727-2a76a4262f44" width="500"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/408310c5-6e13-486d-800c-241a7aab14a3" width="400"/> <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/b6e909ae-412c-4e86-b727-2a76a4262f44" width="400"/> 
 
 Iteratively applying the algorithm (as described in Algorithm 3, the network is compressed.
 The converged network induces a polytope-basis cover, where each two-layer subnetwork represents one convex polytope.
@@ -27,15 +27,15 @@ The converged network induces a polytope-basis cover, where each two-layer subne
 
 # Finding an efficient polytope-basis cover
 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/5f6c0665-6d87-4651-89f1-d81d396e3a92" width="245"/> 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/6f86d91d-e187-4b1e-9aed-764c1c34e4d2" width="245"/> 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/75f9a721-4bb8-4e31-9a44-bac4a211bf0b" width="245"/> 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/5dad1f2c-e67b-4739-9807-a41c36f36507" width="245"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/5f6c0665-6d87-4651-89f1-d81d396e3a92" width="200"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/6f86d91d-e187-4b1e-9aed-764c1c34e4d2" width="200"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/75f9a721-4bb8-4e31-9a44-bac4a211bf0b" width="200"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/5dad1f2c-e67b-4739-9807-a41c36f36507" width="200"/> 
 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/d91be162-7f91-471c-b96d-e7a8e5113783" width="245"/> 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/2ad223b8-8013-46e1-aad7-861593731101" width="245"/> 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/0fe1889b-9886-49cd-b29a-6a200dcb224b" width="245"/> 
-<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/15b89912-787a-4a21-a966-7750690716ca" width="245"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/d91be162-7f91-471c-b96d-e7a8e5113783" width="200"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/2ad223b8-8013-46e1-aad7-861593731101" width="200"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/0fe1889b-9886-49cd-b29a-6a200dcb224b" width="200"/> 
+<img src="https://github.com/leeleesang/Defining_NN/assets/69498771/15b89912-787a-4a21-a966-7750690716ca" width="200"/> 
 
 ## The obtained polytope-basis cover and combinated decision boundary
 <div align="center">
