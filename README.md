@@ -26,6 +26,7 @@ The converged network induces a polytope-basis cover, where each two-layer subne
 ------
 
 # Finding an efficient polytope-basis cover
+Below is the implementation of Algorithm 4 in Appendix.
 
 <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/5f6c0665-6d87-4651-89f1-d81d396e3a92" width="200"/> 
 <img src="https://github.com/leeleesang/Defining_NN/assets/69498771/6f86d91d-e187-4b1e-9aed-764c1c34e4d2" width="200"/> 
