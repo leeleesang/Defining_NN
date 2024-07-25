@@ -1,8 +1,11 @@
 Defining Neural Network Architecture through Polytope Structure of Datasets
 =============================
-This is the supplementary files for the ICML 2024 *Spotlight* paper "***Defining Neural Network Architecture through Polytope Structure of Datasets***", https://arxiv.org/abs/2402.02407
+This is the supplementary files for the ICML 2024 *Spotlight* paper "***Defining Neural Network Architecture through Polytope Structure of Datasets***." 
 
-This repository provides 1) PyTorch files for algorithms, and 2) gif files for visualization of the proposed algorithms.
+Paper : https://arxiv.org/abs/2402.02407 \
+YouTube link : https://youtu.be/FkqJdD5Tumw 
+
+This repository provides 1) PyTorch code for algorithms (Jupyter notebook files), and 2) GIF files for visualization of the proposed algorithms.
 
 
 # Visualization the main algorithm on a toy datasets
